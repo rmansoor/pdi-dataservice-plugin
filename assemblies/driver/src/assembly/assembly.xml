@@ -38,7 +38,7 @@
 
   <dependencySets>
     <dependencySet>
-      <useTransitiveDependencies>true</useTransitiveDependencies>
+      <useTransitiveDependencies>false</useTransitiveDependencies>
       <includes>
         <include>pentaho-kettle:kettle-core:jar:*</include>
         <include>pentaho-kettle:kettle-engine:jar:*</include>
